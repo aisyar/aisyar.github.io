@@ -9,10 +9,6 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-k6PFS3Sgwf+pLiZKmQZS7ECH7mbjnvOq35KLrGvBS0Y=",
-      "url": "guyub_200x200.png"
-    },
-    {
       "hash": "sha256-5QLufjN3hn2HbsyY5e0O8VGjLcvnuGQupZsV54OkiT8=",
       "url": "icon-512.png"
     },
